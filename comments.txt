@@ -1,1 +1,9 @@
 https://confluence-prod.tcc.etn.com/display/LTK/Git+Configuration+Management+Using+Tortoise+Git
+
+fdsfdsfd
+
+ssss
+
+ssh-keygen -t rsa -C "rongshui_lihua@sina.com
+key file: git_key.rs
+passphrase: empty
